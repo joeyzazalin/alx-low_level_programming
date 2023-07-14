@@ -1,0 +1,1 @@
+gcc putchar puts
