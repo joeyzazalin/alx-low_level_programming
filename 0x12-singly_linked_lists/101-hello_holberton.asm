@@ -1,5 +1,3 @@
-finame: 101-hello_holberton.asm
-
           global    main
           extern    printf
 main:
